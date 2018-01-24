@@ -20,7 +20,11 @@ ribbon:
 
 spring:
   rabbitmq:
-    host: rabbitmq
+    host: 192.168.59.105
+    port: 5672
+    username: guest
+    password: guest
+
   sleuth:
     sampler:
       percentage: 1
