@@ -20,3 +20,4 @@ spring:
     driver-class-name: org.h2.Driver
   jpa:
     show-sql: true
+test: '{cipher}AQCVM25JlMmWuh1ao9nRPBIFMC6A/yZxev5j04oBkmQjT8KVIy0XFWgQ3Xk1C1c2L8ebK8FXMrNsi5YXp5dtKi00oaRHumxdTjCzH5O2aMmFRaZ99/8J1Wd0qfaLbqN9oSpq8Seq749k+1OPDU6MFYluEGSShtdrbvKS8JaPgrkZI59p0C9LTWSlSF2jyRXfIFd+3qKylKI/vm1pINzKqXW9M5u5xJoHgxr/ff8MpgkKx03wA+pI8bkF0lN9pmd6bRF1oF2AM2pEfTUGgWMT2BC0DKWmK41bQa+lKTYTXYE9eQyFGFmh6A1O02c6zXxR0uc6gPQq9rlTdD7WgjGRjfI02fvFxCG4Tl+hkua1kVkQQgs1OODmz40G1Mfvms+Cs5I='
